@@ -70,7 +70,9 @@ typings/
 !.vscode/extensions.json
 .history
 
-# End of https://www.gitignore.io/api/node,visualstudiocode
+# IntelliJ
+.idea/
+*.imlß
 
 .sass-lint.yml
 .cache-loader

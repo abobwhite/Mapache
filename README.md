@@ -6,21 +6,8 @@
 
 > Minimalist Material Design and Elegant theme for [Ghost](https://github.com/tryghost/ghost/)
 
-## Free theme for Ghost
-
-Hello, I created this theme Ghost to see how it works. It is available for free so you can use on your site. It is strictly forbidden commercial use. If you have any suggestions to improve the theme,  you can send me tweet to [@GodoFredoNinja](http://bit.ly/tw-GodoFredoNinja)
-
-### 😃 To have updated the subject please help me with a small collaboration in [paypal](https://bit.ly/PayPal-GodoFredoNinja). I will thank you enormentene
-
-[![](./documentation/donate.gif)](https://bit.ly/PayPal-GodoFredoNinja)
-
-![](./documentation/mapache-screenshot.png)
-
-## Demo
-
-> Later I will write an article showing the functionality of the theme. For the moment in my page I am using one of my theme [simply](https://github.com/godofredoninja/simply)
-
-You can see a demo in my [blog](http://bit.ly/GodoFredoNinja-Mapache).
+## Fork for abobwhite.com
+This repo is forked from [https://github.com/godofredoninja/Mapache](https://github.com/godofredoninja/Mapache) for the purpose of customizing abobwhite.com - a personal tech blog
 
 ## Mapache Support for Web Browsers
 
