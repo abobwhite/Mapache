@@ -3,4 +3,5 @@
     {{#foreach navigation}}
         <li><a href="{{url absolute="true"}}" class="navigation-link {{#if current}}active{{/if}}">{{label}}</a></li>
     {{/foreach}}
+    <li><a href="{{@blog.url}}/subscribe" class="navigation-link {{#if current}}active{{/if}}">{{t "Subscribe"}}</a></li>
 </ul>
