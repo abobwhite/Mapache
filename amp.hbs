@@ -94,7 +94,7 @@
 
                 <div class="u-flexCenter">
 
-                {{#author}}
+                {{#primary_author}}
 
                     {{!-- Author avatar --}}
                     <div class="author u-overflowHidden">
@@ -107,10 +107,10 @@
                         {{!-- Author Name --}}
                         <a href="{{url absolute="true"}}">{{name}}</a>
 
-                {{/author}}
+                {{/primary_author}}
 
                         {{!-- Author biography --}}
-                        {{#if author.bio}}<div class="author-bio u-block u-overflowHidden u-fontSizeSmaller u-textColorNormal">{{{author.bio}}}</div>{{/if}}
+                        {{#if primary_author.bio}}<div class="author-bio u-block u-overflowHidden u-fontSizeSmaller u-textColorNormal">{{primary_author.bio}}</div>{{/if}}
 
                         {{!-- Datetime of post --}}
                         <time class="datetime u-textColorNormal u-fontSizeSmaller u-block u-textColorNormal" datetime="{{date format='YYYY-MM-DD'}}">{{date published_at timeago="true"}}</time>

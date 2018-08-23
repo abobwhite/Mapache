@@ -2,6 +2,7 @@
   "name": "mapache-abobwhite",
   "version": "1.0.0",
   "description": "Mapache theme for ghost by @abobwhite",
+  "keywords": ["ghost-theme"],
   "author": {
     "name": "Alex White",
     "email": "abobwhite89@gmail.com",

@@ -2294,6 +2294,14 @@ input.search-field:focus {
   padding: 0
 }
 
+.kg-width-wide {
+  max-width: 1040px;
+}
+
+.kg-width-full {
+  max-width: 100vw;
+}
+
 .entry {
   margin-bottom: 1.5rem;
   padding: 0 15px 15px
